@@ -1,24 +1,3 @@
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E-commerce Marketing Analytics and Optimization</title>
-    <style>
-        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
-        h1 { color: #2c3e50; }
-        h2 { color: #34495e; }
-        p { margin-bottom: 15px; }
-        ul { margin: 15px 0; padding-left: 20px; }
-        code { background-color: #f4f4f4; padding: 2px 5px; border-radius: 4px; }
-        a { color: #2980b9; text-decoration: none; }
-        a:hover { text-decoration: underline; }
-        .footer { margin-top: 30px; font-size: 0.9em; color: #7f8c8d; }
-    </style>
-</head>
-<body>
-
 <h1>E-commerce Marketing Analytics and Optimization</h1>
 
 <p>This project focuses on analyzing and optimizing marketing efforts for an e-commerce platform using real consumer data. It includes data cleaning, customer segmentation, behavioral analysis, A/B testing, and visualization of key marketing metrics.</p>
