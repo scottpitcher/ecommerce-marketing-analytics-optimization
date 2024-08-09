@@ -4,6 +4,7 @@
 
 <h2>Project Components</h2>
 <strong>Data Source: </strong><url>https://www.kaggle.com/datasets/uom190346a/e-commerce-customer-behavior-dataset?resource=download</url>
+<br><br>
 <ul>
     <li><strong>Data Cleaning and Preparation:</strong> Ensuring data quality and consistency by handling missing values, formatting data, and creating useful features.</li>
     <li><strong>Marketing Measurement Frameworks:</strong>
